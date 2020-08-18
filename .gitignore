@@ -3,7 +3,3 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-.editorconfig
-scratch
-*.sh
-*_archive*
